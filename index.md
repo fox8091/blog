@@ -1,3 +1,7 @@
-# Welcome to what will eventually be my blog
+{
+	"template": "homepage"
+	"title": "fox8091's Blog"
+	"sitename": "fox8091's Blog"
+}
 
-Until then, enjoy your stay. :)
+Content will be uploaded..eventually. Until then, enjoy your stay. :)
